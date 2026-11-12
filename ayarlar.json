@@ -1,0 +1,9 @@
+{
+  "mesaj": "Merhaba Claude, günaydın!",
+  "baslangic_saati": "23:41",
+  "aralik_saat": 5,
+  "yeni_sohbet_ac": false,
+  "yeni_sohbet_kisayolu": "^n",
+  "uygulama_acilis_bekleme_sn": 8,
+  "gonderim_oncesi_bekleme_sn": 2
+}
